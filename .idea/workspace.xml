@@ -5,72 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8694162-1491-445b-bace-aa80a21d0aa9" name="Changes" comment="Initial base">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_base_18_ea_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_base_linux_18_ea_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_controls_18_ea_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_controls_linux_18_ea_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_fxml_18_ea_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_fxml_linux_18_ea_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_graphics_18_ea_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_graphics_linux_18_ea_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maplenu-desk.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mrisa/command/config/SdzConnect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mrisa/command/generic/GenericCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mrisa/command/generic/MaplenuGeneric.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mrisa/command/generic/MaplenuService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mrisa/command/model/Category.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mrisa/command/model/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mrisa/command/model/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mrisa/command/model/Spokes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mrisa/command/model/Staff.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mrisa/command/service/CategoryService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mrisa/command/service/ProductService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mrisa/command/service/SpokesService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mrisa/maplenudesk/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mrisa/maplenudesk/HomeActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/mrisa/maplenudesk/home-layout.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/mrisa/sass/components/_button.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/mrisa/sass/components/_navbar.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/mrisa/sass/components/_sidebare.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/mrisa/sass/matfx.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/mrisa/sass/utils/_mixin.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/mrisa/sass/utils/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/mrisa/style/matfx.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/mrisa/style/matfx.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/mrisa/command/config/SdzConnect.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/mrisa/command/generic/GenericCode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/mrisa/command/generic/MaplenuGeneric.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/mrisa/command/generic/MaplenuService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/mrisa/command/model/Category.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/mrisa/command/model/Customer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/mrisa/command/model/Product.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/mrisa/command/model/Spokes.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/mrisa/command/model/Staff.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/mrisa/command/service/CategoryService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/mrisa/command/service/ProductService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/mrisa/command/service/SpokesService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/mrisa/maplenudesk/App.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/mrisa/maplenudesk/HomeActivity.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/mrisa/maplenudesk/home-layout.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/mrisa/sass/matfx.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/module-info.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/mrisa/sass/components/_card.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/mrisa/sass/components/_carousel.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/mrisa/sass/components/_sidebar.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mrisa/maplenudesk/HomeActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mrisa/maplenudesk/HomeActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/mrisa/maplenudesk/home-layout.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/mrisa/maplenudesk/home-layout.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/mrisa/sass/components/_button.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/mrisa/sass/components/_button.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/mrisa/sass/components/_navbar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/mrisa/sass/components/_navbar.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/mrisa/sass/components/_sidebare.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/mrisa/sass/bases/_containers.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/mrisa/sass/matfx.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/mrisa/sass/matfx.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/mrisa/sass/utils/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/mrisa/sass/utils/_variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/mrisa/style/matfx.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/mrisa/style/matfx.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/mrisa/style/matfx.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/mrisa/style/matfx.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mrisa/maplenudesk/HomeActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mrisa/maplenudesk/HomeActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mrisa/maplenudesk/home-layout.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mrisa/maplenudesk/home-layout.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mrisa/sass/matfx.scss" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mrisa/sass/matfx.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,13 +36,20 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="27Pv5fhc7xEivWdXBCDJGqG5N7Y" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -138,8 +96,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1649234366199</updated>
-      <workItem from="1649234368839" duration="8337000" />
+      <workItem from="1649234368839" duration="24169000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial base">
+      <created>1649253100899</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1649253100900</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

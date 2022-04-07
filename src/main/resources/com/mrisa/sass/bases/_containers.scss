@@ -1,0 +1,21 @@
+.scroll-pane {
+  -fx-background-color: transparent;
+}
+
+.scroll-pane .scroll-bar {
+  -fx-background-color: $white;
+  -fx-background-radius: 50px;
+  -fx-background-color: transparentize($white, 0.85);
+  &:hover {
+    -fx-background-color: transparentize($white, 0.2);
+  }
+}
+
+.scroll-pane .scroll-bar .thumb{
+  -fx-background-color: transparentize($primary, 0.85);
+  -fx-background-radius: 50px;
+  -fx-animated: transition 5s;
+  &:hover {
+    -fx-background-color: transparentize($primary, 0.2);
+  }
+}

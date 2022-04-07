@@ -1,0 +1,33 @@
+.sidebar {
+  -fx-background-color: linear-gradient(to right top, $primary, darken($primary, 30));
+
+  &__border {
+    -fx-background-color: linear-gradient(to right top, $primary, darken($primary, 30));
+  }
+
+  &__btn {
+    -fx-max-width: 400px;
+    -fx-pref-height: 50px;
+    -fx-background-color: transparent;
+    -fx-text-fill: $light;
+    -fx-font-size: 1.3em;
+    -fx-graphic-text-gap: 8;
+    -fx-alignment: BASELINE_LEFT;
+
+    &:hover {
+      -fx-background-color: transparentize($dark, 0.8);
+    }
+    &:selected {
+      -fx-background-color: transparentize($dark, 0.8);
+    }
+  }
+
+  &__togglebtn {
+    -fx-background-color: white;
+    -fx-background-radius: 25px;
+    &:selected {
+      -fx-background-color: $warding;
+    }
+  }
+}
+

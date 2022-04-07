@@ -1,0 +1,11 @@
+.navbar {
+  -fx-background-color: white;
+
+  &__panier {
+    -fx-background-color: transparent;
+    &:hover {
+      -fx-background-color: $light;
+      -fx-background-radius: 30px;
+    }
+  }
+}
