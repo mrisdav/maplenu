@@ -1,0 +1,17 @@
+.carousel  {
+
+  &__button {
+    -fx-min-width: 40px;
+    -fx-min-height: 5px;
+    -fx-max-height: 5px;
+    -fx-max-width: 40px;
+    -fx-graphic-text-gap: 0;
+    -fx-content-display: GRAPHIC_ONLY;
+    -fx-background-radius: 150px;
+    -fx-font-size: 0em;
+    -fx-background-color: transparentize($light, 0.6);
+    &:hover {
+      -fx-background-color: lighten($primary, 10);
+    }
+  }
+}
